@@ -1,0 +1,2 @@
+Projeto da disciplina de Estrutura de dados utilizando a linguagem Python.
+Este programa realiza o cadastro de usuários a serem vacinados, utilizando um algoritmo, e as vacinas e doses que serão consumidas.
