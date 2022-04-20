@@ -6,4 +6,4 @@ Com o auxílio de um algoritmo, é possível realizar o sorteio que irá distrib
 
 Ao final do sorteio, é mostrado na tela o usuário escolhido para ser vacinado, com sua respectiva vacina, e os usuários que não foram vacinados, caso existam.
 
-Para execucao do programa abra o arquivo main.py.
+Para execução do programa abra o arquivo main.py.
